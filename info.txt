@@ -1,5 +1,3 @@
-Talal Zubair
-24-ST-086
 using System;
 
 class Calculator
