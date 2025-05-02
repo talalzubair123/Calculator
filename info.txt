@@ -7,7 +7,12 @@ class Calculator
         int a = 5, b = 3;
         Console.WriteLine("Addition: " + (a + b));
         Console.WriteLine("Subtraction: " + (a - b));
+ multiplication
         Console.WriteLine("Multiplication: " + (a * b));
+ division
         Console.WriteLine("Division: " + ((float)a / b));
+
+ Addition
+ Addition
     }
 }
