@@ -9,6 +9,10 @@ class Calculator
         Console.WriteLine("Subtraction: " + (a - b));
  multiplication
         Console.WriteLine("Multiplication: " + (a * b));
+ division
+        Console.WriteLine("Division: " + ((float)a / b));
+
+ Addition
  Addition
     }
 }
